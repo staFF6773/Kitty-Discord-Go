@@ -1,4 +1,4 @@
-![cover](https://raw.githubusercontent.com/LLMKira/Docs/main/docs/cover.png)
+![cover](https://cdn.discordapp.com/attachments/1146232942146879568/1149495757091635210/Diseno_sin_titulo-removebg-preview.png)
 ------------------------------------
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/LICENSE-AGPL-ff69b4">
