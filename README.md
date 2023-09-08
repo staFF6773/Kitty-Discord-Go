@@ -10,3 +10,8 @@ this discord bot is 100% customizable but if you don't have much experience prog
 
 If you do not know how to use the code you can see some GO courses or you can connect me on my discord
 you can also join programming servers.
+
+### Links 🌐
+- **[web site](https://tsukasabot.site/)** ⚙
+- **[Support server](https://discord.gg/AU6xf2g9wX)** 🛰
+-  **[My api](https://github.com/api-tsukasa/tsukasa-api)** 💸
