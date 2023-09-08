@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://cdn.discordapp.com/attachments/1146232942146879568/1149495757091635210/Diseno_sin_titulo-removebg-preview.png" alt="MarineGEO circle logo" style="height: 120px; width:120px;"/>
+  <img src="https://cdn.discordapp.com/attachments/1146232942146879568/1149495757091635210/Diseno_sin_titulo-removebg-preview.png" alt="MarineGEO circle logo" style="height: 160px; width:160px;"/>
   <h2>Kitty</h2>
 </div>
 
