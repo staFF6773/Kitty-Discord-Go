@@ -1,5 +1,3 @@
-![cover](https://cdn.discordapp.com/attachments/1146232942146879568/1149495757091635210/Diseno_sin_titulo-removebg-preview.png)
-------------------------------------
 
 <h2 align="center">Kitty</h2>
 
