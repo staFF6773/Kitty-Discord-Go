@@ -1,7 +1,13 @@
-<div align='center'>
+![cover](https://raw.githubusercontent.com/LLMKira/Docs/main/docs/cover.png)
+------------------------------------
+<p align="center">
   <img alt="License" src="https://img.shields.io/badge/LICENSE-AGPL-ff69b4">
-  <h2>Kitty</h2>
-</div>
+  <img src="https://img.shields.io/badge/Python-3.8|9|10|11-green" alt="Python" >
+  <a href="https://afdian.net/a/Suki1077"><img src="https://img.shields.io/badge/Buyme-milk-DB94A2" alt="SPONSOR"></a>
+  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fsudoskys%2FOpenaibot?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsudoskys%2FOpenaibot.svg?type=small"/></a>
+</p>
+
+<h2 align="center">OpenaiBot</h2>
 
 # About
 
