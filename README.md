@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://cdn.discordapp.com/attachments/1146232942146879568/1149495757091635210/Diseno_sin_titulo-removebg-preview.png" alt="MarineGEO circle logo" style="height: 110px; width:200px;"/>
+  <img alt="License" src="https://img.shields.io/badge/LICENSE-AGPL-ff69b4">
   <h2>Kitty</h2>
 </div>
 
